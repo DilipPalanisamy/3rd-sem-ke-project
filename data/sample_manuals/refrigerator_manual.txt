@@ -1,0 +1,47 @@
+# FROSTFREE PLUS SMART REFRIGERATOR - USER & SERVICE GUIDE
+Model Series: RF-550 Multi-Door & Double-Door Frost Free
+Category: Refrigerator
+
+## 1. Critical Safety Cautions
+- DANGER: Contains R600a / R134a refrigerant under pressure. Never attempt to pierce, solder, or cut refrigerant tubing. Sealed refrigeration circuit repairs must ONLY be executed by EPA-certified HVAC/R technicians.
+- Unplug the unit before replacing LED light modules or cleaning behind the refrigerator.
+- Do not use mechanical devices, sharp knives, or ice picks to accelerate defrosting; you risk puncturing the evaporator coils.
+- Never store flammable gases, aerosols, or alcohol solvents inside the appliance.
+
+## 2. Common Issues & Step-by-Step Remedies
+
+### Issue: Refrigerator Is Not Cooling (Compressor Does Not Run or Runs Continuously)
+- Possible Causes:
+  1. Temperature setting is set too warm or Eco-mode is inadvertently active.
+  2. Condenser coils on bottom/rear are covered in heavy lint, pet hair, and household dust.
+  3. Inadequate clearance around the refrigerator preventing heat dissipation.
+  4. Defrost thermostat or compressor relay failure.
+- Recommended Solutions:
+  1. Set refrigerator temperature to 3°C (37°F) and freezer to -18°C (0°F).
+  2. Disconnect mains plug. Pull refrigerator gently forward. Vacuum and brush condenser coils using a soft coil brush every 6 months.
+  3. Ensure at least 5 cm (2 inches) clearance at rear and sides, and 10 cm on top.
+  4. If compressor clicks continuously every 2-3 minutes without starting, call an authorized technician to test the PTC start relay and run capacitor.
+
+### Issue: Water Pooling at the Bottom of Fresh Food Compartment or Under Crisper Drawers
+- Possible Causes:
+  1. Defrost drain hole at the rear internal wall is blocked with ice, food particles, or algae.
+  2. Drain tube behind refrigerator has kinked or frozen shut.
+- Recommended Solutions:
+  1. Remove crisper drawers. Locate the drain trough and drain funnel at the back wall.
+  2. Flush the drain hole with warm water (not boiling) using a turkey baster or syringe.
+  3. Gently pass a flexible nylon tube or pipe cleaner through the drain hole to clear organic blockage.
+  4. Verify that water drains freely into the evaporation pan above compressor at the back.
+
+### Issue: Excessive Frost Buildup on Freezer Walls and Ceiling
+- Possible Causes:
+  1. Magnetic door gasket is torn, dirty, hardened, or not sealing airtight.
+  2. Door is being opened too frequently or held open for prolonged periods in high humidity.
+  3. Defrost heater or bi-metal defrost thermostat has burnt out.
+- Recommended Solutions:
+  1. Test seal with the 'Dollar Bill Test': Close door on a dollar bill/paper slip. If it slides out with zero resistance, clean or replace gasket.
+  2. Clean gasket grooves with mild soap and warm water; soften stiff spots using a warm damp cloth.
+  3. If frost resembles hard snow packed over entire rear panel, the automatic defrost system is defective and requires technician inspection.
+
+### Issue: Buzzing, Rattling, or Humming Noises
+- Normal sounds: Mild humming is the inverter compressor; occasional crackling is thermal expansion of panels during defrost.
+- Abnormal sounds: Vibrating metal tube at rear, unlevel feet, or fan blade hitting frost accumulation. Ensure leveling legs touch the floor firmly.

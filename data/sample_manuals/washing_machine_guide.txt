@@ -1,0 +1,55 @@
+# HOMEGUARD PRO AUTOMATIC WASHING MACHINE - USER & TROUBLESHOOTING MANUAL
+Model Series: WM-8000 Front-Load & Top-Load
+Category: Washing Machine
+
+## 1. Safety Warnings & Electrical Hazard Guidelines
+- DANGER: Always unplug the washing machine from the mains electrical outlet before performing any inspection, maintenance, or cleaning.
+- Never touch electrical plugs or switches with wet hands.
+- Do not bypass the child safety door lock mechanism.
+- If the supply cord or power plug is damaged, it must be replaced by the manufacturer, an authorized service technician, or a certified electrician to avoid electrical fire or shock.
+- Never wash items soaked in gasoline, paint thinner, dry-cleaning solvents, or other flammable liquids.
+
+## 2. Common Error Codes and Troubleshooting
+
+### Error Code E1: Water Inlet Failure (No Water Entering Drum)
+- Possible Causes:
+  1. Water supply tap is turned off or water pressure is too low.
+  2. Inlet hose is kinked or twisted behind the machine.
+  3. Inlet valve mesh filter is clogged with sediment, rust, or mineral deposits.
+- Recommended Solutions:
+  1. Verify the household water tap is fully open and water pressure is adequate.
+  2. Inspect the water inlet hose and straighten any kinks.
+  3. Turn off tap, unscrew inlet hose from the back of the washer, remove the plastic mesh filter with pliers, gently scrub under running water with a soft brush, and reinstall securely.
+
+### Error Code E2: Drain Problem (Water Not Draining Out)
+- Possible Causes:
+  1. Drain hose is bent, crushed, or positioned higher than 100 cm above floor level.
+  2. Debris filter / pump filter is obstructed by coins, buttons, hairpins, or lint.
+  3. Drain pump impeller is jammed.
+- Recommended Solutions:
+  1. Check drain hose routing; ensure no severe bends and end of hose is not submerged in water.
+  2. Place a shallow tray and towel under the bottom-front service access flap.
+  3. Unscrew the drain pump filter cap counter-clockwise, let residual water drain, remove trapped debris, check that the impeller wheel spins freely with a finger, and tightly recap.
+- Precaution: Water inside drum may be hot if cycle just completed; allow 30 minutes to cool before opening drain filter.
+
+### Error Code E3 / dE: Door Lock / Latch Error
+- Possible Causes:
+  1. Door is not closed completely or laundry is caught between door glass and rubber gasket.
+  2. Door strike pin is misaligned or switch mechanism is faulty.
+- Recommended Solutions:
+  1. Press door firmly until an audible click is heard before pressing Start/Pause.
+  2. Check for trapped clothing around the door seal.
+  3. If latch is stuck, do not force door open. Turn off power for 5 minutes to release thermal lock.
+
+### Error Code UE: Unbalanced Load Error (Drum Cannot Spin)
+- Possible Causes:
+  1. A single heavy item (such as a bedsheet, bathmat, or heavy towel) is balled up on one side.
+  2. The washing machine is not standing level on all four adjustable feet.
+- Recommended Solutions:
+  1. Pause cycle, open door, redistribute items evenly inside drum. Add 1-2 smaller items to balance heavy single loads.
+  2. Use a spirit level on top of the machine and adjust the front leveling feet by turning locknuts clockwise/counter-clockwise until stable and firm.
+
+## 3. Routine Care & Preventive Maintenance
+- Drum Tub Clean: Run a monthly maintenance cycle at 60°C or 90°C with 100g of citric acid or tub descaler.
+- Detergent Drawer Cleaning: Press release latch to remove the detergent drawer. Rinse under warm water to dissolve dried powder and fabric softener build-up.
+- Rubber Bellow Gasket: Wipe dry after every wash to prevent mildew and odor formation. Leave door slightly ajar when not in use.

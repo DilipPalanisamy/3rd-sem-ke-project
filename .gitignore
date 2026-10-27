@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Environment Variables & Secrets
+.env
+.streamlit/secrets.toml
+
+# ChromaDB local storage (auto-populated by app on startup)
+chroma_db/
+
+# Operating System Files
+.DS_Store
+Thumbs.db

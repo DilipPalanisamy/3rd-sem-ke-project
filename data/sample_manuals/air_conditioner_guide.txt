@@ -1,0 +1,44 @@
+# COOLWAVE INVERTER SPLIT AIR CONDITIONER - TROUBLESHOOTING GUIDE
+Model Series: AC-IN18 1.5 Ton / 2.0 Ton Eco Inverter
+Category: Air Conditioner
+
+## 1. Safety & Hazardous Voltage Warning
+- HIGH VOLTAGE WARNING: The outdoor condenser unit contains high-voltage electronics (230V-400V) and large capacitors that hold lethal electrical charge even after disconnecting power.
+- NEVER open outdoor unit casing or service the fan motor / inverter PCB yourself.
+- Disconnect main breaker/isolator switch before cleaning the indoor unit filters.
+- If you suspect a refrigerant leak (sweet chemical odor, hissing sound, or ice on thin suction copper pipe), immediately switch off the AC, ventilate the room, and contact certified technician.
+
+## 2. Common Problems & Diagnostic Procedures
+
+### Problem: AC Is Running But Not Cooling the Room (Blowing Warm or Room-Temperature Air)
+- Possible Causes:
+  1. Indoor air filters are heavily clogged with dust, choking airflow across the cooling coil.
+  2. Mode setting is wrongly set to 'FAN' or 'DRY' instead of 'COOL' mode.
+  3. Set temperature is higher than or equal to current room ambient temperature.
+  4. Outdoor condenser coil is blocked by leaves, dust, or direct extreme sunlight.
+  5. Low refrigerant charge due to copper flare joint micro-leak.
+- Recommended Solutions:
+  1. Open indoor unit front panel, slide out mesh air filters, wash with lukewarm water, allow to dry completely in shade, and reinstall.
+  2. Ensure remote is in 'COOL' mode (snowflake icon) and set temperature between 22°C to 24°C.
+  3. Inspect outdoor unit; maintain at least 30 cm clear airspace around it.
+  4. If indoor evaporator coil is freezing into a block of ice or thin copper pipe is frosted, turn off AC immediately and call a certified technician to detect leak and recharge refrigerant.
+
+### Problem: Water Dripping or Overflowing from Indoor Unit
+- Possible Causes:
+  1. Condensate drain pipe is choked with dirt, algae, or fungal slime.
+  2. Condensate drain hose has reverse slope (sagging) or exit tip is submerged in water bucket.
+  3. Indoor unit is not installed horizontally level on mounting bracket.
+- Recommended Solutions:
+  1. Check drain hose outlet outside. Ensure it slopes downwards with gravity.
+  2. Blow gently into drain pipe or use a wet/dry shop vacuum at outdoor drain pipe exit to suck out clogged sludge.
+  3. Pour 200 ml of clean water slowly onto the indoor cooling coil fins to confirm smooth water flow through drain tray.
+
+### Problem: Error Codes on Display
+- Error Code E1 / F1: Indoor room temperature sensor or coil thermistor open/short circuit. Requires sensor replacement by technician.
+- Error Code E4: Compressor overload or indoor fan motor abnormal RPM. Turn off circuit breaker for 10 minutes to reset. If E4 returns, contact service center.
+- Error Code EC: Refrigerant leakage detection algorithm triggered. Do not run unit to prevent compressor motor burnout.
+
+## 3. Preventive Maintenance Schedule
+- Every 2 Weeks: Wash indoor mesh air filters.
+- Every 3 Months: Clean outdoor condenser fins using a garden hose (low pressure) from top to bottom.
+- Annually: Pre-summer professional wet service with chemical wash of cooling coils and blower wheel.
