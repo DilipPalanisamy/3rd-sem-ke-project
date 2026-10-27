@@ -1,8 +1,28 @@
 # 🛠️ AI-Powered Home Appliance Troubleshooting & User Guide Assistant (RAG)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=DilipPalanisamy/3rd-sem-ke-project&branch=main&mainModule=app.py)
+![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue)
+![ChromaDB](https://img.shields.io/badge/Vector%20DB-ChromaDB-orange)
+![Gemini API](https://img.shields.io/badge/LLM-Google%20Gemini-8E75C2)
+![Embeddings](https://img.shields.io/badge/Embeddings-all--MiniLM--L6--v2-green)
+
 An intelligent, context-grounded **Retrieval-Augmented Generation (RAG)** assistant that helps users diagnose and troubleshoot household appliance problems (washing machines, refrigerators, air conditioners, microwaves, dishwashers) using technical manuals, error code sheets, and maintenance guides.
 
 ---
+
+## 🌐 Live Web Demo
+
+You can run and interact with the live demo directly in your browser without installing anything locally:
+
+👉 **[Launch Live Demo on Streamlit Community Cloud](https://share.streamlit.io/deploy?repository=DilipPalanisamy/3rd-sem-ke-project&branch=main&mainModule=app.py)**
+
+### How to Deploy Your Permanent Public URL in 1 Click:
+1. Click the **[Open in Streamlit](https://share.streamlit.io/deploy?repository=DilipPalanisamy/3rd-sem-ke-project&branch=main&mainModule=app.py)** badge or link above.
+2. Sign in with your GitHub account (`DilipPalanisamy`).
+3. Click **Deploy!**
+4. Streamlit Cloud will build and launch your permanent live link (e.g. `https://3rd-sem-ke-project.streamlit.app`) which you can submit as your live demo link!
+5. *(Optional)* In **App settings → Secrets**, you can add `GEMINI_API_KEY = "your_key"` so examiners don't even need to input an API key!
+
 
 ## 📌 Project Objectives
 
